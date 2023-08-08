@@ -16,5 +16,4 @@ int main () {
     // *score_ptr = 86; // Ok
     // score_ptr = &low_score; // Error
     // cout << *score_ptr;
-
 }
